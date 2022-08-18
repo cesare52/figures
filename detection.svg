@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="245" height="242" viewBox="0 0 245 242">
+<rect width="245" height="242" fill="white"/><line x1="39.5" y1="205.5" x2="239.5" y2="205.5" stroke="#ddd" stroke-width="1" opacity="1"/>
+<line x1="39.5" y1="161.5" x2="239.5" y2="161.5" stroke="#ddd" stroke-width="1" opacity="1"/>
+<line x1="39.5" y1="116.5" x2="239.5" y2="116.5" stroke="#ddd" stroke-width="1" opacity="1"/>
+<line x1="39.5" y1="72.5" x2="239.5" y2="72.5" stroke="#ddd" stroke-width="1" opacity="1"/>
+<line x1="39.5" y1="27.5" x2="239.5" y2="27.5" stroke="#ddd" stroke-width="1" opacity="1"/>
+<text aria-label="39,50,210,221" text-anchor="start" x="39.5" y="220.5" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">10</text>
+<text aria-label="67,78,210,221" text-anchor="middle" x="72.83333333333333" y="220.5" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">20</text>
+<text aria-label="100,111,210,221" text-anchor="middle" x="106.16666666666666" y="220.5" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">30</text>
+<text aria-label="134,145,210,221" text-anchor="middle" x="139.5" y="220.5" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">40</text>
+<text aria-label="167,178,210,221" text-anchor="middle" x="172.83333333333331" y="220.5" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">50</text>
+<text aria-label="200,211,210,221" text-anchor="middle" x="206.16666666666669" y="220.5" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">60</text>
+<text aria-label="228,239,210,221" text-anchor="end" x="239.5" y="220.5" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">70</text>
+<line x1="39.5" y1="205.5" x2="39.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="72.5" y1="205.5" x2="72.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="106.5" y1="205.5" x2="106.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="139.5" y1="205.5" x2="139.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="172.5" y1="205.5" x2="172.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="206.5" y1="205.5" x2="206.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="239.5" y1="205.5" x2="239.5" y2="210.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="97,181,224,236" text-anchor="middle" x="139.5" y="235.5" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">yield (binned)</text>
+<line x1="39.5" y1="205.5" x2="239.5" y2="205.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="27,32,198,209" text-anchor="end" x="32.5" y="208.5" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0</text>
+<text aria-label="21,32,154,165" text-anchor="end" x="32.5" y="164.05555555555557" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">10</text>
+<text aria-label="21,32,109,120" text-anchor="end" x="32.5" y="119.61111111111111" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">20</text>
+<text aria-label="21,32,65,76" text-anchor="end" x="32.5" y="75.16666666666667" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">30</text>
+<text aria-label="21,32,20,31" text-anchor="end" x="32.5" y="30.722222222222232" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">40</text>
+<line x1="39.5" y1="205.5" x2="34.5" y2="205.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="39.5" y1="161.5" x2="34.5" y2="161.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="39.5" y1="116.5" x2="34.5" y2="116.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="39.5" y1="72.5" x2="34.5" y2="72.5" stroke="#888" stroke-width="1" opacity="1"/>
+<line x1="39.5" y1="27.5" x2="34.5" y2="27.5" stroke="#888" stroke-width="1" opacity="1"/>
+<text aria-label="4,16,57,153" text-anchor="middle" x="15.376953125" y="105.5" transform="rotate(-90.0, 15.376953125 105.5)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">Count of Records</text>
+<line x1="39.5" y1="205.5" x2="39.5" y2="5.5" stroke="#888" stroke-width="1" opacity="1"/>
+<path aria-label="yield (binned): 20 – 30; Count of Records: 42" role="graphics-symbol" aria-roledescription="bar" d="M73.33333333333333,18.33333333333333h32.33333333333333v186.66666666666666h-32.33333333333333Z" fill="#4c78a8"/>
+<path aria-label="yield (binned): 40 – 50; Count of Records: 26" role="graphics-symbol" aria-roledescription="bar" d="M140.0,89.44444444444446h32.333333333333314v115.55555555555554h-32.333333333333314Z" fill="#4c78a8"/>
+<path aria-label="yield (binned): 30 – 40; Count of Records: 39" role="graphics-symbol" aria-roledescription="bar" d="M106.66666666666666,31.66666666666666h32.33333333333334v173.33333333333334h-32.33333333333334Z" fill="#4c78a8"/>
+<path aria-label="yield (binned): 50 – 60; Count of Records: 5" role="graphics-symbol" aria-roledescription="bar" d="M173.33333333333331,182.77777777777777h32.33333333333337v22.22222222222223h-32.33333333333337Z" fill="#4c78a8"/>
+<path aria-label="yield (binned): 60 – 70; Count of Records: 2" role="graphics-symbol" aria-roledescription="bar" d="M206.66666666666669,196.11111111111111h32.333333333333314v8.888888888888886h-32.333333333333314Z" fill="#4c78a8"/>
+<path aria-label="yield (binned): 10 – 20; Count of Records: 6" role="graphics-symbol" aria-roledescription="bar" d="M40.0,178.33333333333334h32.33333333333333v26.666666666666657h-32.33333333333333Z" fill="#4c78a8"/>
+<text x="41.500000" y="221.500000" fill="red" font-size="5">X-axis_label</text>
+<polyline points="39.500000,210.500000 39.500000,221.500000 50.500000,221.500000 50.500000,210.500000 39.500000,210.500000" style="fill:none;stroke:red;stroke-width:1" />
+<text x="69.333333" y="221.500000" fill="red" font-size="5">X-axis_label</text>
+<polyline points="67.333333,210.500000 67.333333,221.500000 78.333333,221.500000 78.333333,210.500000 67.333333,210.500000" style="fill:none;stroke:red;stroke-width:1" />
+<text x="102.666667" y="221.500000" fill="red" font-size="5">X-axis_label</text>
+<polyline points="100.666667,210.500000 100.666667,221.500000 111.666667,221.500000 111.666667,210.500000 100.666667,210.500000" style="fill:none;stroke:red;stroke-width:1" />
+<text x="136.000000" y="221.500000" fill="red" font-size="5">X-axis_label</text>
+<polyline points="134.000000,210.500000 134.000000,221.500000 145.000000,221.500000 145.000000,210.500000 134.000000,210.500000" style="fill:none;stroke:red;stroke-width:1" />
+<text x="169.333333" y="221.500000" fill="red" font-size="5">X-axis_label</text>
+<polyline points="167.333333,210.500000 167.333333,221.500000 178.333333,221.500000 178.333333,210.500000 167.333333,210.500000" style="fill:none;stroke:red;stroke-width:1" />
+<text x="202.666667" y="221.500000" fill="red" font-size="5">X-axis_label</text>
+<polyline points="200.666667,210.500000 200.666667,221.500000 211.666667,221.500000 211.666667,210.500000 200.666667,210.500000" style="fill:none;stroke:red;stroke-width:1" />
+<text x="230.500000" y="221.500000" fill="red" font-size="5">X-axis_label</text>
+<polyline points="228.500000,210.500000 228.500000,221.500000 239.500000,221.500000 239.500000,210.500000 228.500000,210.500000" style="fill:none;stroke:red;stroke-width:1" />
+<text x="99.500000" y="235.500000" fill="red" font-size="5">X-axis_title</text>
+<polyline points="97.500000,224.500000 97.500000,236.500000 181.500000,236.500000 181.500000,224.500000 97.500000,224.500000" style="fill:none;stroke:red;stroke-width:1" />
+<text x="29.000000" y="209.500000" fill="yellow" font-size="5">Y-axis_label</text>
+<polyline points="27.000000,198.500000 27.000000,209.500000 32.500000,209.500000 32.500000,198.500000 27.000000,198.500000" style="fill:none;stroke:yellow;stroke-width:1" />
+<text x="23.500000" y="165.055556" fill="yellow" font-size="5">Y-axis_label</text>
+<polyline points="21.500000,154.055556 21.500000,165.055556 32.500000,165.055556 32.500000,154.055556 21.500000,154.055556" style="fill:none;stroke:yellow;stroke-width:1" />
+<text x="23.500000" y="120.611111" fill="yellow" font-size="5">Y-axis_label</text>
+<polyline points="21.500000,109.611111 21.500000,120.611111 32.500000,120.611111 32.500000,109.611111 21.500000,109.611111" style="fill:none;stroke:yellow;stroke-width:1" />
+<text x="23.500000" y="76.166667" fill="yellow" font-size="5">Y-axis_label</text>
+<polyline points="21.500000,65.166667 21.500000,76.166667 32.500000,76.166667 32.500000,65.166667 21.500000,65.166667" style="fill:none;stroke:yellow;stroke-width:1" />
+<text x="23.500000" y="31.722222" fill="yellow" font-size="5">Y-axis_label</text>
+<polyline points="21.500000,20.722222 21.500000,31.722222 32.500000,31.722222 32.500000,20.722222 21.500000,20.722222" style="fill:none;stroke:yellow;stroke-width:1" />
+<text x="6.376953" y="68.500000" fill="yellow" font-size="5">Y-axis_title</text>
+<polyline points="4.376953,57.500000 4.376953,153.500000 16.376953,153.500000 16.376953,57.500000 4.376953,57.500000" style="fill:none;stroke:yellow;stroke-width:1" />
+<text x="75.333333" y="29.333333" fill="green" font-size="5">mark</text>
+<polyline points="73.333333,18.333333 73.333333,205.000000 105.666667,205.000000 105.666667,18.333333 73.333333,18.333333" style="fill:none;stroke:green;stroke-width:1" />
+<text x="142.000000" y="100.444444" fill="green" font-size="5">mark</text>
+<polyline points="140.000000,89.444444 140.000000,205.000000 172.333333,205.000000 172.333333,89.444444 140.000000,89.444444" style="fill:none;stroke:green;stroke-width:1" />
+<text x="108.666667" y="42.666667" fill="green" font-size="5">mark</text>
+<polyline points="106.666667,31.666667 106.666667,205.000000 139.000000,205.000000 139.000000,31.666667 106.666667,31.666667" style="fill:none;stroke:green;stroke-width:1" />
+<text x="175.333333" y="193.777778" fill="green" font-size="5">mark</text>
+<polyline points="173.333333,182.777778 173.333333,205.000000 205.666667,205.000000 205.666667,182.777778 173.333333,182.777778" style="fill:none;stroke:green;stroke-width:1" />
+<text x="208.666667" y="207.111111" fill="green" font-size="5">mark</text>
+<polyline points="206.666667,196.111111 206.666667,205.000000 239.000000,205.000000 239.000000,196.111111 206.666667,196.111111" style="fill:none;stroke:green;stroke-width:1" />
+<text x="42.000000" y="189.333333" fill="green" font-size="5">mark</text>
+<polyline points="40.000000,178.333333 40.000000,205.000000 72.333333,205.000000 72.333333,178.333333 40.000000,178.333333" style="fill:none;stroke:green;stroke-width:1" />
+</svg>
